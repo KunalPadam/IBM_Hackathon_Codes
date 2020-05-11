@@ -159,19 +159,6 @@ def disconnect_DB(conn):
     ibm_db.close(conn);
     print("DB Connection successfully disconnected");
 
-#Get Input data from Speech to Text or Twitter
-
-#Clean the data using filtering data
-
-#process the data using process ML
-
-#invokde decision maker functions 
-	#Convert the json to python object
-	#use the confidance parameter to decide whether it is EMERGENCY request or Request or Volunteer
-
-#Create a custom JSON with name, text, decision, latitude and longitude,phone number
-
-#Use the custom JSON to call the funtion to persist in DB
 
 
 
