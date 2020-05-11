@@ -55,4 +55,3 @@ def data_from_CSV():
     disconnect_DB_SQL()
     
 data_from_CSV()
-    
